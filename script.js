@@ -26,7 +26,3 @@ document.addEventListener('DOMContentLoaded', (event) => {
     button.addEventListener('mouseover', moveButton);
   });
   
-
-  function openImage() {
-    window.open('eita.png');
-}
